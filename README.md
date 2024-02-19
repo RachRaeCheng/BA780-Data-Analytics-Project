@@ -1,2 +1,5 @@
 # BA780-Final-Project 
 Dhruv Shah, Aishwarya Jayant Rauthan, Setu Shah, Haaniya Umair, Yifei Cheng
+In the world of growing e-commerce, understanding consumer behaviors and gift-giving trends is crucial for businesses. We propose conducting an in-depth analysis of global gift-giving behavior using online retail transaction data from the UC Irvine Machine Learning Repository. The project aims to gain insights into the most popular gifts given in different countries, across various seasons, while also investigating sales trends throughout the calendar year. Additionally, we want to identify irregularities in gifting trends, emphasizing transaction frequency by month and country.
+
+This project serves to illuminate the dynamics of a global online retail business, shedding light on gift-giving trends with a specific focus on holiday periods and their sophisticated connections with consumer behavior. By analyzing our online retail transaction data, we can make informed decisions to optimize our offerings, business strategies, and business management.
